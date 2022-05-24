@@ -1,0 +1,15 @@
+body {
+	background-color: #333;
+	color: #ccc;
+	padding: 20px;
+	font-size: 1.3rem;
+
+	a {
+		color: #eee;
+		text-decoration: none;
+	}
+
+	a.active {
+		color: yellow;
+	}
+}
